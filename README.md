@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**IlliaYeshchenko228/IlliaYeshchenko228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on office :)
 - 🌱 I’m currently learning To be honest, not much. The session is over and I'm enjoying my free time for now.
