@@ -6,7 +6,7 @@
 
 1. Створити обліковий запис GitHub
 
-![](account.png)
+![](profilePhoto.png)
 
 2. Встановити CHOCOLATEY за допомогою powershell:
 ```
@@ -20,7 +20,7 @@ choco install git -y
 ```
 Перевіряємо правильність установки. Для цього дізнаємось версію встановленого гіт.
 
-![](gitversion.png)
+![](photo_2023-05-04_16-05-03.png)
 
 4. Налаштувати гіт за своїми даними:
 ```
@@ -33,7 +33,7 @@ git config --global user.email m.v.overko@student.khai.edu
 ssh-keygen -t ed25519 -C "m.v.overko@student.khai.edu"
 ```
 
-Ключ було згенеровано за шляхом "H:\orchad\work\.ssh\" у файлі id_ed25519.pub
+Ключ було згенеровано за шляхом "C:\Users\User\.ssh" у файлі id_ed25519.pub
 
 6. Додати ключ до облікового запису Github:
 
@@ -41,11 +41,11 @@ ssh-keygen -t ed25519 -C "m.v.overko@student.khai.edu"
 
 7. Створити новий репозиторій з назвою такою ж як і назва акаунту:
 
-![](repository.png)
+![](photo_2023-05-04_16-04-51.png)
 
 8. Склонувати репозиторій за допомогою git clone на локальний пк та відредагувати README.md:
 
-![](readme.png)
+![](photo_2023-05-04_16-04-56.png)
 
 9. Завантажити опис профілю:
 ```
@@ -54,7 +54,7 @@ git commit -m "Add your comment"
 git push
 ```
 
-![](page.png)
+![](photo_2023-05-04_16-05-00.png)
 
 Висновок
 
