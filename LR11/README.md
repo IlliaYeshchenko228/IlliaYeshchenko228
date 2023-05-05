@@ -24,8 +24,8 @@ choco install git -y
 
 4. Налаштувати гіт за своїми даними:
 ```
-git config --global user.name "MykolaOverko"
-git config --global user.email m.v.overko@student.khai.edu
+git config --global user.name "IlliaYeshchenko228"
+git config --global user.email i.s.yeshchenko@student.khai.edu
 ```
 
 5. Згенерувати новий SSH ключ:
