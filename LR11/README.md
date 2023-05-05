@@ -30,7 +30,7 @@ git config --global user.email i.s.yeshchenko@student.khai.edu
 
 5. Згенерувати новий SSH ключ:
 ```
-ssh-keygen -t ed25519 -C "m.v.overko@student.khai.edu"
+ssh-keygen -t ed25519 -C "i.s.yeshchenko@student.khai.edu"
 ```
 
 Ключ було згенеровано за шляхом "C:\Users\User\.ssh" у файлі id_ed25519.pub
